@@ -93,7 +93,9 @@
 
   .poetry_section .carousel-control-prev,
   .poetry_section .carousel-control-next {
-    display: none;
+    padding: 1px;
+    width: 22px;
+    height: 22px;
   }
 
 
