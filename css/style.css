@@ -698,7 +698,7 @@ a:focus {
   background-position: center;
 }
 .img-radius {
-  border-radius: 500px;
+  border-radius: 100%;
 }
 
 .img-size {
